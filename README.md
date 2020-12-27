@@ -18,7 +18,7 @@ Optionally for development also:
 sudo apt install glade
 ```
 
-## Instal lfrom source
+## Install from source
 
 CD into repository and then:
 
